@@ -1,0 +1,389 @@
+{
+    "bairros": [
+      {
+        "bairro": "Barra Funda",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Bela Vista",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Bom Retiro",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Brás",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Consolação",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Liberdade",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Pari",
+        "zona": "Central"
+      },
+      {
+        "bairro": "República",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Santa Cecília",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Sé",
+        "zona": "Central"
+      },
+      {
+        "bairro": "Casa Verde",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Jaçanã",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Mandaqui",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Santana",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Tremembé",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Tucuruvi",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Vila Guilherme",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Vila Maria",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Vila Medeiros",
+        "zona": "Norte"
+      },
+      {
+        "bairro": "Água Rasa",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Aricanduva",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Artur Alvim",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Belém",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Cangaíba",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Carrão",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Cidade Líder",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Cidade Tiradentes",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Ermelino Matarazzo",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Guaianazes",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Iguatemi",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Itaim Paulista",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Itaquera",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Jardim Helena",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "José Bonifácio",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Lajeado",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Mooca",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Parque do Carmo",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Penha",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Ponte Rasa",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Sapopemba",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "São Lucas",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "São Mateus",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "São Miguel",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "São Rafael",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Tatuapé",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Vila Curuçá",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Vila Formosa",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Vila Jacuí",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Vila Matilde",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Vila Prudente",
+        "zona": "Leste"
+      },
+      {
+        "bairro": "Cambuci",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Campo Belo",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Campo Grande",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Campo Limpo",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Capão Redondo",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Cidade Ademar",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Cidade Dutra",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Cursino",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Grajaú",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Ipiranga",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Itaim Bibi",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Jabaquara",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Jardim Ângela",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Jardim Paulista",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Jardim São Luís",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Marsilac",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Moema",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Morumbi",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Parelheiros",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Pedreira",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Sacomã",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Santo Amaro",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Saúde",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Socorro",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Vila Andrade",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Vila Mariana",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Vila Sônia",
+        "zona": "Sul"
+      },
+      {
+        "bairro": "Alto de Pinheiros",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Anhanguera",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Brasilândia",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Butantã",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Cachoeirinha",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Freguesia do Ó",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Jaguará",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Jaguaré",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Jaraguá",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Lapa",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Limão",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Perdizes",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Perus",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Pinheiros",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Pirituba",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Raposo Tavares",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Rio Pequeno",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "São Domingos",
+        "zona": "Oeste"
+      },
+      {
+        "bairro": "Vila Leopoldina",
+        "zona": "Oeste"
+      }
+    ]
+  }
+  
