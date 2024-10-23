@@ -1,98 +1,226 @@
+/* Importando fontes */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+/* Reset básico */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body {
+body, html {
     font-family: 'Roboto', sans-serif;
-    background-color: #f0f0f5;
-    color: #333;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    text-align: center;
+    color: #fff;
+    height: 100%;
+    /* Remover overflow: hidden; */
+    /* overflow: hidden; */
 }
 
-header {
-    background-color: #4CAF50;
-    padding: 20px;
+.parallax {
+    background-image: url('sua-imagem-de-fundo.jpg'); /* Substitua pela URL da sua imagem */
+    height: 100%;
     width: 100%;
-    color: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-h1 {
-    font-size: 2.5rem;
-}
-
-section {
-    margin-top: 30px;
-    width: 100%;
-}
-
-.input-area {
-    margin: 20px 0;
+    background-position: center;
+    background-size: cover;
     position: relative;
 }
 
-input {
-    padding: 15px;
-    font-size: 1.2rem;
-    width: 60%;
-    border-radius: 5px;
-    border: 2px solid #ccc;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: border-color 0.3s;
+.parallax::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    pointer-events: none; /* Permite interações nos elementos abaixo */
+    z-index: 1; /* Define o nível de empilhamento */
 }
 
-input:focus {
-    border-color: #4CAF50;
-    outline: none;
+header {
+    position: relative;
+    z-index: 2; /* Assegura que o header está acima do pseudo-elemento */
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-button {
-    padding: 15px 20px;
-    font-size: 1.2rem;
-    background-color: #4CAF50;
-    color: white;
+header h1 {
+    font-size: 3vw;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    animation: fadeInDown 2s ease forwards;
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+section {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    z-index: 2; /* Assegura que a seção está acima do pseudo-elemento */
+}
+
+.input-area {
+    display: inline-block;
+    width: 90%;
+    max-width: 600px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.input-area select,
+.input-area input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 1em;
     border: none;
     border-radius: 5px;
-    margin-left: 10px;
+    outline: none;
+    color: #fff;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.input-area select option {
+    color: #000;
+}
+
+#buscarButton {
+    width: 100%;
+    padding: 12px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+    color: #fff;
+    transition: transform 0.3s ease;
 }
 
-button:hover {
-    background-color: #45a049;
+#buscarButton:hover {
+    transform: scale(1.05);
 }
 
-#resultadoContainer {
-    margin-top: 20px;
-}
+
 
 #loader {
-    border: 4px solid #f3f3f3;
-    border-top: 4px solid #4CAF50;
+    border: 5px solid rgba(255, 255, 255, 0.1);
+    border-top: 5px solid #ff416c;
     border-radius: 50%;
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     animation: spin 1s linear infinite;
     margin: 20px auto;
 }
 
-.hidden {
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 5vw;
+    }
+}
+
+@media (max-height: 600px) {
+    .input-area {
+        padding: 15px;
+    }
+
+    .input-area select,
+    .input-area input {
+        padding: 8px;
+        font-size: 0.9em;
+    }
+
+    #buscarButton {
+        padding: 10px;
+        font-size: 0.9em;
+    }
+
+    #loader {
+        width: 40px;
+        height: 40px;
+    }
+
+    #resultado {
+        font-size: 1em;
+    }
+}
+/* ... Seu CSS existente ... */
+
+/* Estilos para o Pop-up */
+#popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 3; /* Acima de todos os outros elementos */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#popup.hidden {
     display: none;
 }
 
-#resultado {
-    font-size: 1.5rem;
-    margin-top: 20px;
+.popup-content {
+    background: #fff;
+    color: #333;
+    padding: 30px;
+    border-radius: 10px;
+    position: relative;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    animation: slideDown 0.5s forwards;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#closePopup {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 1.5em;
+    cursor: pointer;
     color: #333;
 }
 
-@keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+#popupMessage {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+#popupMessage strong {
+    color: #000000;
 }
