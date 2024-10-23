@@ -2,25 +2,50 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-height, initial-scale=1.0">
     <title>Descubra a Zona do Bairro</title>
+    <!-- Fontes e ícones -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <!-- Estilos -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Descubra a Zona do Bairro</h1>
-    </header>
+    <!-- Seção de Parallax -->
+    <div class="parallax">
+        <header>
+            <h1>Descubra a Zona do Bairro</h1>
+        </header>
+    </div>
+
+    <!-- Seção Principal -->
     <section>
         <div class="input-area">
+            <select id="estadoSelect">
+                <option value="" disabled selected>Selecione o estado</option>
+                <option value="minas">Minas Gerais</option>
+                <option value="sao_paulo">São Paulo</option>
+            </select>
             <input type="text" id="bairroInput" placeholder="Digite o nome do bairro">
-            <button id="buscarButton">🔍 Buscar Zona</button>
+            <button id="buscarButton"><i class="fas fa-search"></i> Buscar Zona</button>
         </div>
         <div id="resultadoContainer">
             <div id="loader" class="hidden"></div>
-            <p id="resultado"></p>
+            <!-- Removemos o parágrafo do resultado -->
         </div>
     </section>
 
+    <!-- Estrutura do Pop-up -->
+    <div id="popup" class="hidden">
+        <div class="popup-content">
+            <span id="closePopup">&times;</span>
+            <p id="popupMessage"></p>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <!-- Font Awesome para ícones -->
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <!-- Script Principal -->
     <script src="script.js"></script>
 </body>
 </html>
