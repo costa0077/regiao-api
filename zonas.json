@@ -1,389 +1,2443 @@
 {
-    "bairros": [
-      {
-        "bairro": "Barra Funda",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Bela Vista",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Bom Retiro",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Brás",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Consolação",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Liberdade",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Pari",
-        "zona": "Central"
-      },
-      {
-        "bairro": "República",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Santa Cecília",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Sé",
-        "zona": "Central"
-      },
-      {
-        "bairro": "Casa Verde",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Jaçanã",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Mandaqui",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Santana",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Tremembé",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Tucuruvi",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Vila Guilherme",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Vila Maria",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Vila Medeiros",
-        "zona": "Norte"
-      },
-      {
-        "bairro": "Água Rasa",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Aricanduva",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Artur Alvim",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Belém",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Cangaíba",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Carrão",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Cidade Líder",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Cidade Tiradentes",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Ermelino Matarazzo",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Guaianazes",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Iguatemi",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Itaim Paulista",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Itaquera",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Jardim Helena",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "José Bonifácio",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Lajeado",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Mooca",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Parque do Carmo",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Penha",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Ponte Rasa",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Sapopemba",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "São Lucas",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "São Mateus",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "São Miguel",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "São Rafael",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Tatuapé",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Vila Curuçá",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Vila Formosa",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Vila Jacuí",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Vila Matilde",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Vila Prudente",
-        "zona": "Leste"
-      },
-      {
-        "bairro": "Cambuci",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Campo Belo",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Campo Grande",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Campo Limpo",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Capão Redondo",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Cidade Ademar",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Cidade Dutra",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Cursino",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Grajaú",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Ipiranga",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Itaim Bibi",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Jabaquara",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Jardim Ângela",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Jardim Paulista",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Jardim São Luís",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Marsilac",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Moema",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Morumbi",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Parelheiros",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Pedreira",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Sacomã",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Santo Amaro",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Saúde",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Socorro",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Vila Andrade",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Vila Mariana",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Vila Sônia",
-        "zona": "Sul"
-      },
-      {
-        "bairro": "Alto de Pinheiros",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Anhanguera",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Brasilândia",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Butantã",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Cachoeirinha",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Freguesia do Ó",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Jaguará",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Jaguaré",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Jaraguá",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Lapa",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Limão",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Perdizes",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Perus",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Pinheiros",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Pirituba",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Raposo Tavares",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Rio Pequeno",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "São Domingos",
-        "zona": "Oeste"
-      },
-      {
-        "bairro": "Vila Leopoldina",
-        "zona": "Oeste"
-      }
-    ]
-  }
-  
+  "bairros": [
+    {
+      "bairro": "Barra Funda",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Bela Vista",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Bom Retiro",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Brás",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Consolação",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Liberdade",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Pari",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "República",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Santa Cecília",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Sé",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Casa Verde",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jaçanã",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Mandaqui",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Santana",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Tremembé",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Tucuruvi",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Guilherme",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Maria",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Medeiros",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Água Rasa",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Aricanduva",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Artur Alvim",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Belém",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cangaíba",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Carrão",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cidade Líder",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cidade Tiradentes",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Ermelino Matarazzo",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Guaianazes",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Iguatemi",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Itaim Paulista",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Itaquera",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Helena",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "José Bonifácio",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Lajeado",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Mooca",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Parque do Carmo",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Penha",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Ponte Rasa",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Sapopemba",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "São Lucas",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "São Mateus",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "São Miguel",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "São Rafael",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Tatuapé",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Curuçá",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Formosa",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Jacuí",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Matilde",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Prudente",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cambuci",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Campo Belo",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Campo Grande",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Campo Limpo",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Capão Redondo",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cidade Ademar",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cidade Dutra",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cursino",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Grajaú",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Ipiranga",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Itaim Bibi",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jabaquara",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Ângela",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Paulista",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim São Luís",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Marsilac",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Moema",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Morumbi",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Parelheiros",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Pedreira",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Sacomã",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Santo Amaro",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Saúde",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Socorro",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Andrade",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Mariana",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Sônia",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Alto de Pinheiros",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Anhanguera",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Brasilândia",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Butantã",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Cachoeirinha",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Freguesia do Ó",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jaguará",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jaguaré",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jaraguá",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Lapa",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Limão",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Perdizes",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Perus",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Pinheiros",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Pirituba",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Raposo Tavares",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Rio Pequeno",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "São Domingos",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Leopoldina",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Adalberto Pinheiro",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Antenas",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Araguaia",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Átila de Paiva",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bairro das Indústrias",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Barreiro de Baixo",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Barreiro de Cima",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Brasil Industrial",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cardoso",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conj. Habitacional Jatobá IV",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Esperança",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Flávio de Oliveira",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Habitacional Bom Sucesso",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Maldonado",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cristo Redentor",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Diamante",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Durval de Barros",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Flávio Marques Lisboa",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Getulio Vargas",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Hosana",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Independência",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Itaipú",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jatobá",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Lindéia",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Mannesman",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Milionários",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Mineirão",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Miramar",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Novo das Industrias",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Novo Santa Cecilia",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Olária",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Olhos D'agua",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pilar (Sul do Anel)",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pongelupe",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Regina",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Cecília",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Cruz",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Helena",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Margarida",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Solar",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Solar II",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Teixeira Dias",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Tirol",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Urucuia",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vale do Jatobá",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Alta Tensão",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Bernadete",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Castanheira",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Cemig",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Copasa",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Corumbiara",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Formosa",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Germânia",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Independência",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Mangueiras",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Marieta",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Nova dos Milionários",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Petropólis",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Piratininga",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Presidente Vargas",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Santa Rita",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Washington Pires",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Zona Rural (Serra do Curral)",
+      "zona": "Barreiro",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Acaba Mundo",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aglomerado Barragem (parte)",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aglomerado Serra (parte)",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Anchieta",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bandeirantes (parte)",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Barro Preto",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Belvedere",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Carmo",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Centro",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cidade Jardim",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Comiteco",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Coração de Jesus",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cruzeiro",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Floresta (área interna à Av. Contorno)",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Funcionários",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Lourdes",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Luxemburgo",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Mangabeiras",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Morro do Querosene",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Parque das Mangabeiras",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pindura Saia",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Efigênia (área hospitalar)",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Isabel",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Lúcia",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Rita de Cássia",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santo Agostinho",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santo Antônio",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Lucas",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Pedro",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Bento",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Savassi",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Serra",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Sion",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Estrela (parte)",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Paris",
+      "zona": "Centro Sul",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aglomerado Camponesa (parte)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aglomerado da Serra (trecho situado no bairro Novo São Lucas)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Alto Vera Cruz",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Alto Vera Cruz (parte)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Baleia",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Boa Vista",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Caetano Furquim (parte)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Casa Branca",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Colégio Batista",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Habitacional João Pio de Souza (parte)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Habitacional Mariano de Abreu",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Esplanada",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Floresta",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Horto (parte ao norte da avenida Silviano Brandão)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Horto (parte ao sul da avenida Silviano Brandão)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Instituto Agronômico",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Vista",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Novo São Lucas",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Paraíso",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pompéia",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Sagrada Família",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Efigênia",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Inês",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Tereza",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Geraldo",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Saudade",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Taquaril",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vera Cruz",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Belém",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Buraco Quente",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Cônego Pinheiro",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila da Área (Granja de Freitas)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila da Grota",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila João Alfredo",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Nossa Senhora do Rosário",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Rock in Rio",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila São Rafael (parte)",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila São Vicente",
+      "zona": "Leste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Agl. Beira Linha",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bairro da Graça",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Beija Flor",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bela Vitória",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Belmonte",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cachoeirinha",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Capitão Eduardo",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cidade Nova",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Concórdia",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conj. Habitacional Capitão Eduardo",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conj. Habitacional Paulo VI",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Ribeiro de Abreu",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Dom Joaquim",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Dom Silvério",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Eymard",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Fernão Dias",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Goiânia",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Gorduras",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Ipê",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Ipiranga",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jardim Vitória",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Lagoinha (direita da Av. Antônio Carlos)",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Maria Goretti",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Maria Virgínia",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nazaré",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Cachoeirinha",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Floresta",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Ouro Minas",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Palmares",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Parque Belmonte",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Paulo VI",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pirajá",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pousada Santo Antônio",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Renascença",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Ribeiro de Abreu",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Cruz",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Gabriel",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São João Batista",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Marcos",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Paulo",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Silveira",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "União",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Boa Esperança",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Carioca",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila da Paz",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila de Sá",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila do Pombal",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Grotinha",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Humaitá",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Ipiranga",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Maria",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Matadouro",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Penha",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila São Paulo",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila São Sebastião",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Tiradentes",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vista do Sol",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Zona Rural (Leste do Onça)",
+      "zona": "Nordeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "31 de Março",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Alípio de Melo",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Alto do Caiçara",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Alto dos Pinheiros",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Alvaro Camargos",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aparecida",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aparecida 7º Seção",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Área dos Camargos",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bom Jesus",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bonfim",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cachoeirinha I e II",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Caiçara",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Caiçara Adelaide",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Califórnia",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Califórnia (parte)",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Camargos",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Carlos Prates",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Celso Machado",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Habitacional Jardim Filadélfia",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Itacolomi",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Coqueiral",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Coqueiros",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Coração Eucarístico",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Delta",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Dom Cabral",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Ermelinda",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Filadélfia",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Glalijá (Norte da V.U.L.O.)",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Glória",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Governador Benedito Valadares",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Inconfidência",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jardim Alvorada",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jardim Montanhês",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "João Pinheiro",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Lagoinha",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Lorena",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Marmiteiros",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Minas Brasil",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Monsenhor Messias",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Esperança",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Oeste",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Padre Eustáquio",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pedro II",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Peru",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pindorama",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "PUC",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Maria",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santo André",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Cristóvão",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São José (parte)",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Salvador",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Serrano",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Sumaré",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Antena",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Maravilha I, II, III e IV (parte)",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Nova Cachoeirinha",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Oeste",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Pedreira Prado Lopes",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Real",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Santo Antônio (Barroquinha)",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila São José",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Senhor dos Passos",
+      "zona": "Noroeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aarão Reis",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Antônio Diniz",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Antônio Ribeiro de Abreu",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "B. Vila Clóris",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bairro Novo Aarão Reis",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Campo Alegre",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Canaã",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Celestino",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Floramar",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Habitacional Mariquinhas",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Habitacional Novo Ribeiro de Abreu",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Habitacional Zilah Spósito",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Jardim Felicidade",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Etelvina Carneiro",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Floramar",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Frei Leopoldo",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Guarani",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Heliopólis",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jaqueline",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jardim Guanabara",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Juliana",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Lajedo",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Laranjeiras",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Madri",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Marize",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Minaslândia",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Monte Azul (Industrial Rodrigues da Cunha)",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Oeste do Onça",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Padre Júlio Maria",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Planalto (oeste da Av. Carlos Guedes)",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Primeiro de Maio",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Providência",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Bernardo",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "São Gonçalo",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Solimões",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Tupi A e B",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Aeroporto",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Bacuraus",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Biquinha",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Boa União",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila São Tomás",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Xodó",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Zona Rural (Norte do Isidoro)",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Zona rural (sul do Isidoro)",
+      "zona": "Norte",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Aglomerado Morro das Pedras: Antena/Chácara Leonina",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Alto Barroca",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Área da Mata do Cercadinho",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Bairro das Mansões",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Barroca",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Betânia",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Buritis",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cabana",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Cabana Pai Tomás",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Calafate",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Conjunto Santa Maria",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Estoril",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Estrela Dalva",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Gameleira",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Glalijá",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Grajaú",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Gutierrez",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Havai",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Imbaúbas",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jardim América",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Jardinópolis",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Madre Gertrudes (Magnesita)",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Marajó",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Morro das Pedras",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Barroca",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Cintra",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Gameleira",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Gameleira II",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Granada",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Nova Suíça",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Oeste (Nova Gameleira)",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Palmeiras",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Patrocínio",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Pilar (Norte do Anel)",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Prado",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Salgado Filho",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Santa Sofia/São Jorge",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Sport Club",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Teresa Cristina I e II",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Ventosa",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Barão Homem de Melo",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Guaratã",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vila Nova Paraíso",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairro": "Vista Alegre",
+      "zona": "Oeste",
+      "estado": "minas"
+    },
+    {
+      "bairros": [
+        {
+          "bairro": "Candelária",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Cenáculo",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Centro de Venda Nova",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Céu Azul",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Copacabana",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Esplendor",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Flamengo",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Jardim dos Comerciários",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Jardim Europa",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Jardim Leblon",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Kátia",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Lagoa",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Lagoinha",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Leblon",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Letícia",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Mantiqueira",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Maria Helena",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Minas Caixa",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Nova América",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Nova York",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Novo Letícia",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Paraúna",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Rio Branco",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Santa Mônica",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "São João Batista",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "São Paulo (Piratininga)",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "São Pedro",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Serra Verde",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Sinimbu",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Universo",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Várzea da Palma",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Antena",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Mantiqueira",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Apolônia",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Capri",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Copacabana",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila dos Anjos",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Estrela",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Itamarati",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Mãe dos Pobres",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Minas Caixa",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Nossa Senhora Aparecida",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Santa Branca",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila São João Batista",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila São José",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila Serra Verde",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        },
+        {
+          "bairro": "Vila SESC",
+          "zona": "Venda Nova",
+          "estado": "minas"
+        }
+      ]
+    }    
+  ]
+}
