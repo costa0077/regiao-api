@@ -6,6 +6,11 @@
       "estado": "sao_paulo"
     },
     {
+        "bairro": "Vila São José",
+        "zona": "Sul",
+        "estado": "sao_paulo"
+      },
+    {
       "bairro": "Bela Vista",
       "zona": "Central",
       "estado": "sao_paulo"
@@ -1151,7 +1156,7 @@
       "estado": "minas"
     },
     {
-      "bairro": "Vila São Rafael (parte)",
+      "bairro": "Vila São Rafael",
       "zona": "Leste",
       "estado": "minas"
     },
