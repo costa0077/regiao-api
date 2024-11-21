@@ -6,10 +6,10 @@
       "estado": "sao_paulo"
     },
     {
-        "bairro": "Vila São José",
-        "zona": "Sul",
-        "estado": "sao_paulo"
-      },
+      "bairro": "Vila São José",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
     {
       "bairro": "Bela Vista",
       "zona": "Central",
@@ -486,9 +486,204 @@
       "estado": "sao_paulo"
     },
     {
+      "bairro": "Campos Elíseos",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Higienópolis",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Luz",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Santa Ifigênia",
+      "zona": "Central",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Água Fria",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Bairro do Limão",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Horto Florestal",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Imirim",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim São Paulo",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Parada Inglesa",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Gustavo",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Mazzei",
+      "zona": "Norte",
+      "estado": "sao_paulo"
+    },
+    {
       "bairro": "Adalberto Pinheiro",
       "zona": "Barreiro",
       "estado": "minas"
+    },
+    {
+      "bairro": "Água Rasa",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Anália Franco",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Chácara Mafalda",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Engenheiro Goulart",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Anália Franco",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Independência",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Parque São Lucas",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Alpina",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Antonina",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Carrão",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Esperança",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Matilde",
+      "zona": "Leste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Brooklin",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Chácara Flora",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Chácara Santo Antônio",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Europa",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Marajoara",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Paulista",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardins",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Clementino",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Nova Conceição",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Bonfiglioli",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim das Perdizes",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Jardim Paulistano",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Sumaré",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Madalena",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
+    },
+    {
+      "bairro": "Vila Romana",
+      "zona": "Oeste",
+      "estado": "sao_paulo"
     },
     {
       "bairro": "Antenas",
@@ -2443,8 +2638,6 @@
           "estado": "minas"
         }
       ]
-    }    
+    }
   ]
 }
-
-
