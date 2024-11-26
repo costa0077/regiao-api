@@ -1,6 +1,11 @@
 {
   "bairros": [
     {
+      "bairro": "Conj. Hab. Barreira Grande",
+      "zona": "Sul",
+      "estado": "sao_paulo"
+    },
+    {
       "bairro": "Barra Funda",
       "zona": "Central",
       "estado": "sao_paulo"
